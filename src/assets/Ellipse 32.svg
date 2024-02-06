@@ -1,0 +1,15 @@
+        <svg
+          width="380"
+          height="425"
+          viewBox="0 0 380 425"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="150.5"
+            cy="190.5"
+            r="212.5"
+            fill="white"
+            fill-opacity="0.1"
+          />
+        </svg>
